@@ -12,7 +12,7 @@ Give each use case a concise, results-oriented name. Use cases should reflect th
 Example:
 
  <p align="center" justify="center">
-  ![UseCase](https://github.com/UMaia-ES-23-24/templates/tree/main/images/UseCaseView2.png)
+  ![UseCase](https://github.com/UMaia-ES-23-24/templates/blob/main/images/UseCaseView2.png?raw=true)
 </p>
 
 Briefly describe each use case mentioning the following:
@@ -65,7 +65,8 @@ At the end, it is good to add a rough indication of the value of the user story 
 To better understand the context of the software system, it is very useful to have a simple UML class diagram with all the key concepts (names, attributes) and relationships involved of the problem domain addressed by your module. 
 Also provide a short textual description of each class. 
 
+
 Example:
  <p align="center" justify="center">
-  <img src="https://github.com/UMaia-ES-23-24/templates/tree/main/images/DomainModel.png"/>
+  <img src="https://github.com/UMaia-ES-23-24/templates/blob/main/images/DomainModel.png?raw=true"/>
 </p>
