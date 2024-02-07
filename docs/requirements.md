@@ -12,7 +12,7 @@ Give each use case a concise, results-oriented name. Use cases should reflect th
 Example:
 
  <p align="center" justify="center">
-  ![UseCase](https://github.com/UMaia-ES-23-24/templates/blob/main/images/UseCaseView2.png?raw=true)
+  <img src="https://github.com/UMaia-ES-23-24/templates/blob/main/images/UseCaseView2.png?raw=true"/>
 </p>
 
 Briefly describe each use case mentioning the following:
