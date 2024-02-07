@@ -12,7 +12,7 @@ Give each use case a concise, results-oriented name. Use cases should reflect th
 Example:
 
  <p align="center" justify="center">
-  ![Alt text](https://github.com/UMaia-ES-23-24/templates/tree/main/images/UseCaseView2.png)
+  ![UseCase](https://github.com/UMaia-ES-23-24/templates/tree/main/images/UseCaseView2.png)
 </p>
 
 Briefly describe each use case mentioning the following:
