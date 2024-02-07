@@ -12,7 +12,7 @@ Give each use case a concise, results-oriented name. Use cases should reflect th
 Example:
 
  <p align="center" justify="center">
-  <img src="https://github.com/UMaia-ES-23-24/templates/issues/main/images/UseCaseView2.png"/>
+  <img src="https://github.com/UMaia-ES-23-24/templates/main/images/UseCaseView2.png"/>
 </p>
 
 Briefly describe each use case mentioning the following:
@@ -67,5 +67,5 @@ Also provide a short textual description of each class.
 
 Example:
  <p align="center" justify="center">
-  <img src="https://github.com/UMaia-ES-23-24/templates/issues/main/images/DomainModel.png"/>
+  <img src="https://github.com/UMaia-ES-23-24/templates/main/images/DomainModel.png"/>
 </p>
