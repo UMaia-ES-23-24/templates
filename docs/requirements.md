@@ -10,7 +10,6 @@ Create a use-case diagram in UML with all high-level use cases possibly addresse
 Give each use case a concise, results-oriented name. Use cases should reflect the tasks the user needs to be able to accomplish using the system. Include an action verb and a noun. 
 
 Example:
-
  <p align="center" justify="center">
   <img src="https://github.com/UMaia-ES-23-24/templates/blob/main/images/UseCaseView2.png?raw=true"/>
 </p>
